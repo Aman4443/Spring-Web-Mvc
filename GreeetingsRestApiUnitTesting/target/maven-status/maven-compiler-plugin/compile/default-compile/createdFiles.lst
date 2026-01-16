@@ -1,0 +1,4 @@
+com\telusko\GreeetingsAPP\GreeetingsAppApplication.class
+com\telusko\GreeetingsAPP\service\GreetingsService.class
+com\telusko\GreeetingsAPP\config\TimeConfig.class
+com\telusko\GreeetingsAPP\service\IGreetings.class
